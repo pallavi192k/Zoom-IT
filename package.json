@@ -1,0 +1,30 @@
+{
+  "name": "Zoom IT",
+  "version": "1.0.0",
+  "description": "Connect to Zoom using Symbl's Javascript SDK",
+  "main": "index.js",
+  "dependencies": {
+    "d": "^1.0.1",
+    "debug": "^4.3.3",
+    "dependencies": "0.0.1",
+    "es5-ext": "^0.10.53",
+    "es6-iterator": "^2.0.3",
+    "es6-symbol": "^3.1.3",
+    "ext": "^1.6.0",
+    "formidable": "^2.0.1",
+    "is-typedarray": "^1.0.0",
+    "ms": "^2.1.3",
+    "next-tick": "^1.1.0",
+    "node-gyp-build": "^4.3.0",
+    "symbl-node": "^1.0.14",
+    "type": "^2.5.0",
+    "typedarray-to-buffer": "^4.0.0",
+    "utf-8-validate": "^5.0.8",
+    "websocket": "^1.0.34",
+    "yaeti": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
